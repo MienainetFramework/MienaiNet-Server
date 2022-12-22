@@ -1,3 +1,3 @@
 # MienaiNet-Server
 
-This is the main Command and Control Server for communicating between controller and victim
+This is the main Low-Level Server for communicating between controller and victim
